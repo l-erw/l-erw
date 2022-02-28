@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lizzie
 - 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React and SASS
 - 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/lizzie-e-a205aab4/), and [Twitter](https://twitter.com/l_erwood)
 
 <!---
